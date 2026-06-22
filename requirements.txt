@@ -1,0 +1,12 @@
+pandas
+numpy
+scikit-learn
+tensorflow
+mlflow
+fastapi
+uvicorn[standard]
+streamlit
+requests
+plotly
+kaggle
+python-dotenv
